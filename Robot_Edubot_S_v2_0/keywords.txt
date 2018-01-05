@@ -1,0 +1,8 @@
+Edubot	KEYWORD1
+Setup	KEYWORD2
+readSensors	KEYWORD2
+setMotorSpeed	KEYWORD2
+irLine	KEYWORD2
+sensor_values	KEYWORD2
+turnRobotInCross	KEYWORD2
+turnRobotBackToLine	KEYWORD2
