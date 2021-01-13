@@ -1,3 +1,5 @@
+#### THIS REPOSITORY IS ARCHIVED
+
 # Edubot
 # All Features:
   - void Edutbot.Setup(unsigned int threshold): Setup the robot for a given threshold.
